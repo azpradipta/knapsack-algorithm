@@ -1,4 +1,4 @@
-# Knapsack Algorithm Pawon
+# Knapsack Algorithm Rumah Makan Pawon
 
 🚀 **Knapsack Pawon** adalah program Python dengan antarmuka GUI menggunakan `Tkinter` untuk membantu memilih kombinasi lauk terbaik sesuai **budget** menggunakan algoritma **0/1 Knapsack**.
 
